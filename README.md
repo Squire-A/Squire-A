@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Squire-A
 - 👀 I’m interested in: From maths to sports, I love all sorts.
-- 🌱 I’m currently learning computer science with Harvard's CS50x.
+- 🌱 I’m currently completing Data Engineer training with Digital Futures .
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me: asquirepython@gmail.com
 
