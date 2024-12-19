@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Squire-A
+- 👋 Hi, I’m Anthony
 - 👀 I’m interested in: From maths to sports, I love all sorts.
 - 🌱 I’m currently completing Data Engineer training with Digital Futures.
 - 💞️ I’m looking to collaborate on anything!
